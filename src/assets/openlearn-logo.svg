@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Hexagonal background -->
+  <path d="M100 50 L300 50 L350 150 L350 250 L300 350 L100 350 L50 250 L50 150 Z" 
+        fill="none" 
+        stroke="#2563EB" 
+        stroke-width="16" 
+        stroke-linejoin="round"/>
+  
+  <!-- Book -->
+  <path d="M120 160 L120 280 Q120 290 130 290 L200 290 L200 160 Z" 
+        fill="#2563EB"/>
+  <path d="M200 160 L200 290 L270 290 Q280 290 280 280 L280 160 Z" 
+        fill="#2563EB"/>
+  <path d="M120 160 Q120 150 130 150 L270 150 Q280 150 280 160" 
+        fill="none" 
+        stroke="#2563EB" 
+        stroke-width="8" 
+        stroke-linecap="round"/>
+  
+  <!-- Code symbols floating above -->
+  <rect x="210" y="100" width="12" height="12" fill="#2563EB"/>
+  <rect x="230" y="110" width="8" height="8" fill="#2563EB"/>
+  <rect x="250" y="90" width="10" height="10" fill="#2563EB"/>
+  <rect x="270" y="105" width="6" height="6" fill="#2563EB"/>
+  <rect x="190" y="85" width="14" height="14" fill="#2563EB"/>
+  <rect x="170" y="110" width="8" height="8" fill="#2563EB"/>
+  
+  <!-- Code brackets -->
+  <path d="M290 120 L300 130 L290 140" 
+        fill="none" 
+        stroke="#2563EB" 
+        stroke-width="6" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+  <path d="M320 120 L310 130 L320 140" 
+        fill="none" 
+        stroke="#2563EB" 
+        stroke-width="6" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+</svg>
